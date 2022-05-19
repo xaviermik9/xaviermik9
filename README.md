@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xaviermik Kelso</h1>
-<h3 align="center">JS/Python developer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaviermik9&label=Profile%20views&color=0e75b6&style=flat" alt="xaviermik9" /> </p>
 
